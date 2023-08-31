@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dressbatik
+* source:	https://sketchfab.com/3d-models/dressbatik-fdaf3b34b3134c5db4341c7211bf9f62
+* author:	19n40012 (https://sketchfab.com/19n40012)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dressbatik" (https://sketchfab.com/3d-models/dressbatik-fdaf3b34b3134c5db4341c7211bf9f62) by 19n40012 (https://sketchfab.com/19n40012) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
